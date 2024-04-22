@@ -1,2 +1,2 @@
-# boarsroom.github.io
-The public website for Boars Room
+# Welcome to Boars Room
+A member only experience based in Covington, Kentucky.
